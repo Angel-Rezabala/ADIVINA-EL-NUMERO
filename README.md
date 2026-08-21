@@ -35,3 +35,4 @@ calcula el punto medio entre `min` y `max`, y según la respuesta del jugador
 (mayor, menor o correcto) ajusta el rango de búsqueda hasta acertar. 
 Los nombres de las variables (`min`, `max`, `intentos`, `intento_pc`, `pista`) 
 coinciden exactamente con los diagramas de flujo incluidos en `/diagramas`.
+Repositorio renombrado.
